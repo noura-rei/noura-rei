@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @noura-rei
-- 👀 I’m interested in life
-- 🌱 I’m currently learning python and how to live 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: noura
